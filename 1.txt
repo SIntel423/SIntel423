@@ -1,0 +1,34 @@
+Daniel Zhang
+Senior Full Stack Engineer
+
+Email: danielzhang.senior@outlook.com
+Phone: +1 (628) 290-5265
+Location: Austin, Texas, USA
+
+CORE EXPERTISE:
+
+Blockchain Development:
+- Polkadot & Substrate Ecosystem Specialist
+- Parachain Development & Custom Runtime Modules
+- Cross-Chain Integration (XCM)
+- Substrate Framework & Pallet Development
+
+AI & Agent Systems:
+- AI Agent Development & Orchestration
+- LLM Integration & Production Deployment
+- Multi-Agent Systems & Coordination
+- AI-Powered Backend Integration
+
+Backend Engineering:
+- Python: FastAPI, Django, async/await, microservices
+- Go: Concurrent systems, gRPC, high-throughput APIs
+- Rust: Systems programming, Actix-web, performance-critical backends
+- Distributed Systems & Cloud Native Architecture
+
+TECHNOLOGIES:
+Languages: Python, Go, Rust, JavaScript, C/C++
+Blockchain: Polkadot, Substrate, Web3.js, Parity
+AI/ML: OpenAI, LangChain, PyTorch, TensorFlow
+Backend: FastAPI, Django, Gin, Actix-web, gRPC
+Frontend: React, Next.js, TypeScript
+Cloud: AWS, Docker, Kubernetes, GitHub Actions, Terraform
