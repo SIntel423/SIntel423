@@ -138,9 +138,9 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIntel423&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/> -->
 <!-- </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=SIntel423&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-</p> -->
+</p> --> -->
 
 ---
 
