@@ -150,13 +150,13 @@
 
 ---
 
-## 🐍 Contribution Snake
+<!-- ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SIntel423/SIntel423/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
----
+--- -->
 
 ## 💡 Random Dev Quote
 
