@@ -122,16 +122,16 @@
 </p>
 
 ---
-
+<!-- 
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SIntel423&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</p>
+</p> -->
 
 ---
 
-## 📊 GitHub Statistics
+<!-- ## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SIntel423&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
@@ -140,7 +140,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SIntel423&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-</p>
+</p> -->
 
 ---
 
@@ -192,7 +192,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SIntel423&theme=2077" alt="Repos Per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SIntel423&theme=2077" alt="Most Commit Language"/>
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SIntel423&theme=2077" alt="Most Commit Language"/> -->
 </p>
 
 ---
