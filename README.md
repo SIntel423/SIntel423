@@ -121,7 +121,7 @@
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
 </p>
 
----
+
 <!-- 
 ## 🏆 GitHub Trophies
 
@@ -140,9 +140,7 @@
 
 <!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=SIntel423&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-</p> --> -->
-
----
+</p> --> 
 
 ## 📈 GitHub Activity Graph
 
