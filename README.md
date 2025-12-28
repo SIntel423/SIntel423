@@ -136,7 +136,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SIntel423&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIntel423&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/> -->
-</p>
+<!-- </p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SIntel423&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
