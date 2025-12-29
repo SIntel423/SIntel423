@@ -1,4 +1,5 @@
 <div align="center">
+  <h2>Senior Software Engineer</h2>
   <p><strong>Architecting Next-Generation Distributed Systems | Blockchain Infrastructure | AI-Powered Solutions</strong></p>
   <p>Specializing in High-Performance, Cloud Native Applications with expertise in Polkadot/Substrate blockchain development, AI agent systems, and enterprise-grade backend architectures</p>
 </div>
