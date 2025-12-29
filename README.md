@@ -1,6 +1,4 @@
 <div align="center">
-  <h1>👋 Daniel Zhang</h1>
-  <h2>Senior Full Stack Engineer</h2>
   <p><strong>Architecting Next-Generation Distributed Systems | Blockchain Infrastructure | AI-Powered Solutions</strong></p>
   <p>Specializing in High-Performance, Cloud Native Applications with expertise in Polkadot/Substrate blockchain development, AI agent systems, and enterprise-grade backend architectures</p>
 </div>
@@ -45,27 +43,6 @@
 - **Rust**: Systems programming, performance-critical backends, Actix-web, async runtimes
 - **Distributed Systems**: Microservices, event-driven architectures, service mesh
 - **Cloud Native**: Kubernetes orchestration, containerization, CI/CD pipelines
-
----
-
-## 📋 Contact Information
-
-- **Email**: danielzhang.senior@outlook.com
-- **Phone**: +1 (628) 290-5265
-- **Location**: Austin, Texas, USA
-
----
-
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="mailto:danielzhang.senior@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/SIntel423" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
 
 ---
 
