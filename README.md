@@ -9,7 +9,6 @@
 <div align="center">
   <p>
     <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-00D9FF?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status"/>
-    <img src="https://img.shields.io/badge/Location-Austin%2C%20Texas-FF6B6B?style=for-the-badge&logo=location&logoColor=white" alt="Location"/>
     <img src="https://img.shields.io/badge/Experience-Senior%20Level-4ECDC4?style=for-the-badge&logo=code&logoColor=white" alt="Experience"/>
   </p>
 </div>
